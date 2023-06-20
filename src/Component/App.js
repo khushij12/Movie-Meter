@@ -101,10 +101,10 @@ function App() {
         :((errormsg ? (<div className="errorMessage">{errormsg}</div>)
           : (movies.map((movie, index) => 
             (<Movie key={`${index}-${movie.title}`} movie={movie} />)))))}
-          <center><p style={{marginBottom:"2rem"}}>Total Result: {movies.length}</p></center>
+          
    
       </div>
-      
+      <div><center><p style={{paddingTop:"2rem",paddingBottom:"2rem",position: "relative",bottom: "0", background:"black", color:"white"}}>Total Result: {movies.length}</p></center></div>
     </div>
   );
 }
