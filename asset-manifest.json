@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Movie-Meter/static/css/main.aebf5ebf.chunk.css",
-    "main.js": "/Movie-Meter/static/js/main.a9369922.chunk.js",
-    "main.js.map": "/Movie-Meter/static/js/main.a9369922.chunk.js.map",
+    "main.css": "/Movie-Meter/static/css/main.01dfff60.chunk.css",
+    "main.js": "/Movie-Meter/static/js/main.ad9b2e0f.chunk.js",
+    "main.js.map": "/Movie-Meter/static/js/main.ad9b2e0f.chunk.js.map",
     "runtime-main.js": "/Movie-Meter/static/js/runtime-main.1f58f23b.js",
     "runtime-main.js.map": "/Movie-Meter/static/js/runtime-main.1f58f23b.js.map",
     "static/js/2.6081170c.chunk.js": "/Movie-Meter/static/js/2.6081170c.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.6ea277f1.chunk.js": "/Movie-Meter/static/js/3.6ea277f1.chunk.js",
     "static/js/3.6ea277f1.chunk.js.map": "/Movie-Meter/static/js/3.6ea277f1.chunk.js.map",
     "index.html": "/Movie-Meter/index.html",
-    "static/css/main.aebf5ebf.chunk.css.map": "/Movie-Meter/static/css/main.aebf5ebf.chunk.css.map",
+    "static/css/main.01dfff60.chunk.css.map": "/Movie-Meter/static/css/main.01dfff60.chunk.css.map",
     "static/js/2.6081170c.chunk.js.LICENSE.txt": "/Movie-Meter/static/js/2.6081170c.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Movie-Meter/static/media/Facebook Cover 851x315 px.e1e0cf5a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1f58f23b.js",
     "static/js/2.6081170c.chunk.js",
-    "static/css/main.aebf5ebf.chunk.css",
-    "static/js/main.a9369922.chunk.js"
+    "static/css/main.01dfff60.chunk.css",
+    "static/js/main.ad9b2e0f.chunk.js"
   ]
 }
