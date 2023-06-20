@@ -1,5 +1,5 @@
 import '../App.css';
-import React,{useState,useEffect, useReducer} from 'react'
+import React,{useReducer} from 'react'
 import SearchBar from './SearchBar'
 import Header from './Header'
 import Movie from './Movie'
@@ -44,7 +44,7 @@ const reducer = (state,action) => {
 
 function App() {
 
-  const api="https://api.themoviedb.org/3/search/movie?api_key=e3aa92d4d9518199909dfa9a38012d33&query=wonder"
+  // const api="https://api.themoviedb.org/3/search/movie?api_key=e3aa92d4d9518199909dfa9a38012d33&query=wonder"
   const api_without_query="https://api.themoviedb.org/3/search/movie?api_key=e3aa92d4d9518199909dfa9a38012d33&query="
 
   
