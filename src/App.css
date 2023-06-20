@@ -23,7 +23,7 @@
 form{
   display:flex;
   position: relative;
-  left: 24em;
+  justify-content: center;
 }
 
 input[type="search"]{
